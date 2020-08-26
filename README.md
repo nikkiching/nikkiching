@@ -1,9 +1,9 @@
 ## 👋 &nbsp;Hi there! I'm Ching
 
 ### ⭐️ &nbsp;About Me
-💡 &nbsp; Workging on retail AI solutions and backend system @ ASUS AICS
-🌱 &nbsp; Love to explore new technologies. Currently learning cloud architecture and system design.
-💬 &nbsp; Good comunication and collaboration with team partners.  code review
+💡 &nbsp; Workging on retail AI solutions and backend system @ ASUS AICS \
+🌱 &nbsp; Love to explore new technologies. Currently learning cloud architecture and system design \
+💬 &nbsp; Good comunication and collaboration with team partners
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
